@@ -3,8 +3,8 @@ https://drive.google.com/drive/folders/14HfMSUWHyGRet321uPX2CUOg91gwLZie
 
 git
 https://github.com/uratasoft/urata-soft/tree/urata3
-urata@urata-soft.org
-victory1
+uratsoft
+uratajimintokanbu1
 
 
 aws
